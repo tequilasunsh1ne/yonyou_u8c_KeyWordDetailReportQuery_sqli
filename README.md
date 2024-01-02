@@ -1,7 +1,7 @@
 # yonyou_u8c_KeyWordDetailReportQuery_sqli
 
 from:https://blog.csdn.net/luochen2436/article/details/135268293
-24/01/02
+24/01/02 @2
 
 ```
 POST /servlet/~iufo/nc.itf.iufo.mobilereport.data.KeyWordDetailReportQuery HTTP/1.1
